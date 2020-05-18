@@ -63,6 +63,16 @@ Mall&amp;rsquo;s front Loading dock Geo probe Addition of AgroRemed </descriptio
     </item>
     
     <item>
+      <title>Vapor Attenuation</title>
+      <link>https://dservgun.github.io/posts/vaporattenuation/</link>
+      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/vaporattenuation/</guid>
+      <description>Vapor Attenuation of paired PCE values between Indoor Air (IA-001) and Sub-Slab area (VP-003) The plot below shows the VaporAttenuation factor based on the formula below for PCE values.
+Notes We present vapor attenuation as a function of time to understand the impact of VaporRemed during the remediation process. Vapor attenuation (Johnson and Ettinger 1991) refers to the reduction in concentration of vapor-forming chemicals that occurs during vapor migration in the subsurface, coupled with the dilution that can occur when the vapors enter a building and mix with indoor.</description>
+    </item>
+    
+    <item>
       <title>VaporRemed Facts</title>
       <link>https://dservgun.github.io/posts/vaporremedfactfigures/</link>
       <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
