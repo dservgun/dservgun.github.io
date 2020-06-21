@@ -30,7 +30,9 @@ The curve shown above indicates that TCE levels increase before they decrease.</
       
       <guid>https://dservgun.github.io/posts/bacterialcounts/</guid>
       <description>Bacterial counts at VP-003. In order to determine whether Chlorine released during the bio-remediation of TCE/PCE is a limiting factor, we measured the bacterial counts at two points seperated by 70 hours.
-          The sustained population count indicates that increase in levels of Chlorine due to bio-remediation of PCE and TCE are not impacting the bacterial population in VaporRemed. This observation presents a clear evidence of bio-remediation taking place; an observation that is further backed by the reduction in contamination levels is indoor air and sub slab areas.</description>
+  3/23/2020 - 14, 800, 000 CFU/ml
+     3/25/2020 - 15, 300, 000 CFU/ml
+     The sustained population count indicates that increase in levels of Chlorine due to bio-remediation of PCE and TCE are not impacting the bacterial population in VaporRemed.</description>
     </item>
     
     <item>
@@ -40,7 +42,7 @@ The curve shown above indicates that TCE levels increase before they decrease.</
       
       <guid>https://dservgun.github.io/posts/comprehensive-data-tables/</guid>
       <description>Comprehensive IAQ Report We post a summary of the comprehensive report for the site between 2018 and 2020.
-Report for 2020 Report for 2018 </description>
+Report for 2020 </description>
     </item>
     
     <item>
@@ -61,7 +63,7 @@ Enhanced Aerobic Bio-remediation of Chlorintaed Hydrocarbons The reference, In S
       
       <guid>https://dservgun.github.io/posts/locationdetails/</guid>
       <description>Location details. Here are some images to help gain a perspective about the project.
-Mall&amp;rsquo;s front Loading dock Geo probe Addition of AgroRemed </description>
+Mall&amp;rsquo;s front Geo probe Addition of AgroRemed </description>
     </item>
     
     <item>
@@ -82,6 +84,15 @@ Mall&amp;rsquo;s front Loading dock Geo probe Addition of AgroRemed </descriptio
       <description>Update on the levels of PCE/TCE in Indoor Air (IA-001), SG-101 and SG-106 The current post presents the latest data recorded in indoor air in one of the hotspots, namely IA-001 in May 2020.
  IA-001  SG-101  SG-106   Note The increase in levels of 1,2-cisDCE and VinylChloride (VC) are indicative or bio-remediation of solvents accomplished by VaporRemed.
 TCE levels at IA-001  IA-001  SG-106  SG-101 Even though we see a slight uptick, the numbers are still within the site-specific limits.</description>
+    </item>
+    
+    <item>
+      <title>Plots of various locations</title>
+      <link>https://dservgun.github.io/posts/locationplots/</link>
+      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/locationplots/</guid>
+      <description>Plots of contamination levels at various locations </description>
     </item>
     
     <item>
