@@ -1,26 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Enhanced Aerobic Bio-remediation of Chlorinated Solvents using VaporRemed - Field Report. Sarva Bio Remed, LLC.</title>
+    <title>Posts on Bioremediation of Chlorinated Solvents - Blog</title>
     <link>https://dservgun.github.io/posts/</link>
-    <description>Recent content in Posts on Enhanced Aerobic Bio-remediation of Chlorinated Solvents using VaporRemed - Field Report. Sarva Bio Remed, LLC.</description>
+    <description>Recent content in Posts on Bioremediation of Chlorinated Solvents - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dinkar Ganti, 2020, All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 09 May 2020 22:52:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 18:52:38 -0400</lastBuildDate>
     
 	<atom:link href="https://dservgun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Poster Presentation at AEHS</title>
+      <link>https://dservgun.github.io/posts/aehsposterpresentation/</link>
+      <pubDate>Thu, 29 Oct 2020 18:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/aehsposterpresentation/</guid>
+      <description>We presented our findings at the 36th Conference on Water, Soil and Sediments. Here are links to the poster and the handout
+Notes We presented the poster virtually due to the ongoing pandemic.</description>
+    </item>
+    
+    <item>
+      <title>VaporRemed Facts</title>
+      <link>https://dservgun.github.io/posts/vaporremedfactfigures/</link>
+      <pubDate>Sat, 23 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/vaporremedfactfigures/</guid>
+      <description>Total amount of VaporRemed added to Soil - 41 gallons. Total amount of VaporRemed added to Sub-slab area - 142 + 91 = 233 gallons. Total amount of VaporRemed added to SG-101 - 35 gallons Total amount of VaporRemed added to SG-106 - 100 gallons. Grand total amount of VaporRemed added to the site is - 476 gallons. Comparison with other projects Although to do an apples-to-apples comparison is not accurate, the following paragraph from the Fourth Five-Year Review Report for Middlefield-Ellis-Whisman (MEW) Superfund Study Area (Pg.</description>
+    </item>
+    
+    <item>
+      <title>Vapor Attenuation</title>
+      <link>https://dservgun.github.io/posts/vaporattenuation/</link>
+      <pubDate>Tue, 19 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/vaporattenuation/</guid>
+      <description>Vapor Attenuation of paired PCE values between Indoor Air (IA-001) and Sub-Slab area (VP-003) The plot below shows the VaporAttenuation factor based on the formula below for PCE values.
+Notes We present vapor attenuation as a function of time to understand the impact of VaporRemed during the remediation process. Vapor attenuation (Johnson and Ettinger 1991) refers to the reduction in concentration of vapor-forming chemicals that occurs during vapor migration in the subsurface, coupled with the dilution that can occur when the vapors enter a building and mix with indoor.</description>
+    </item>
+    
+    <item>
+      <title>Enhanced Aerobic bio-remediation of Chlorinated Solvents at a strip mall in York, PA</title>
+      <link>https://dservgun.github.io/posts/summary/</link>
+      <pubDate>Mon, 18 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/summary/</guid>
+      <description>Enhanced Aerobic Bio-remediation Report Introduction In this report, we present data collected on aerobicbio-remediation of soil contaminated with Perchloroethene (PCE), Trichloroethene (TCE), cis-1,2-Dichloroethene (cis12DCE) and Vinyl Chloride (VC) using VaporRemed.
+Enhanced Aerobic Bio-remediation of Chlorintaed Hydrocarbons The reference, In Situ Bioremediaton : When Does It Work?, lists at least three criteria for demonstrating that in situ bio-remediation is effective for a given project:
+ Documented loss of contaminants from the site due to bio-remediation, Laboratory assays showing that the micro-organisms in site samples have the potential to transform contaminants under expected site condition, and One or more pieces of evidence showing that the bio-remediation potential is actually realized in the field.</description>
+    </item>
+    
+    <item>
+      <title>VaporRemed Case Studies</title>
+      <link>https://dservgun.github.io/posts/someoldpostsonvaporremed/</link>
+      <pubDate>Sun, 17 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/someoldpostsonvaporremed/</guid>
+      <description>VaporRemed Case Studies A site in Virginia   A site in Virginia, one of our initial projects - circa 2006.   An image showing the earmarked area     An image showing the trenches below the AST     A detailed report of the project
+  Some quotes and figures from the report   Groundwater results at MW-1 between 2005 - 2006   The application of AgroRemed appears to have reduced the levels of dissolved phase contamination in the groundwater and increased dispersion of the free product, resulting in an increase in the amount of free product in MW-4.</description>
+    </item>
+    
+    <item>
+      <title>Mission Statement</title>
+      <link>https://dservgun.github.io/posts/missionstatement/</link>
+      <pubDate>Sat, 16 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/missionstatement/</guid>
+      <description>Mission statement Our mission is to help cleanup the mess created by fossil-fuels and dry-cleaning solvents such as Trichloroethylene (TCE), Perchloroethylene (PCE) and oil. Our mission is to cleanup of sites contaminated with dry cleaning chemicals such as PCE/TCE and also fuel oil releases in the environment effectively through aerobic bioremediation. Current cleanup methods are quite cumbersome and very expensive as they involve invasive process of excavation and disposal. Our goal is to reduce the time of cleanup and reduce the cost.</description>
+    </item>
+    
+    <item>
+      <title>Plots of various locations</title>
+      <link>https://dservgun.github.io/posts/locationplots/</link>
+      <pubDate>Fri, 15 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/locationplots/</guid>
+      <description>Plots of contamination levels at various locations   Vapor Attenuation Curve between 2018 - 2020   IA-001 between 2018 - 2020   IA-002 between 2018 - 2020   IA-004 between 2018 - 2020   IA-007 between 2018 - 2020   IA-008 between 2018 - 2020   IA-009 between 2018 - 2020   IA-010 between 2018 - 2020   IA-011 between 2018 - 2019   SB-121 between Jun 2017 - Sept 2017   SG-106 between June 2019 - May 2020   SG-101 between June 2019 - May 2020   VP-003 between 2018 - 2020   </description>
+    </item>
+    
+    <item>
+      <title>Location details</title>
+      <link>https://dservgun.github.io/posts/locationdetails/</link>
+      <pubDate>Thu, 14 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/locationdetails/</guid>
+      <description>Location details. Here are some images to help gain a perspective about the project.
+Mall&amp;rsquo;s front Geo probe Addition of AgroRemed </description>
+    </item>
+    
+    <item>
+      <title>PCE levels in one of the hotspots - May 2020</title>
+      <link>https://dservgun.github.io/posts/indoorairlevels-may2020/</link>
+      <pubDate>Wed, 13 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/indoorairlevels-may2020/</guid>
+      <description>Update on the levels of PCE/TCE in Indoor Air (IA-001), SG-101 and SG-106 The current post presents the latest data recorded in indoor air in one of the hotspots, namely IA-001 in May 2020.
+ IA-001  SG-101  SG-106   Note The increase in levels of 1,2-cisDCE and VinylChloride (VC) are indicative or bio-remediation of solvents accomplished by VaporRemed.
+TCE levels at IA-001  IA-001  SG-106  SG-101 Even though we see a slight uptick, the numbers are still within the site-specific limits.</description>
+    </item>
+    
+    <item>
       <title>Analysis of TCE decay.</title>
       <link>https://dservgun.github.io/posts/decaycurveanalysis/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
+      <pubDate>Tue, 12 May 2020 22:52:38 -0400</pubDate>
       
       <guid>https://dservgun.github.io/posts/decaycurveanalysis/</guid>
       <description>First-order decay curves at SG-106 Here we focus on the project period between 12/4/2019 - 12/14/2019. The image shown below for the degradation of TCE/PCE levels after adding VaporRemed on 12/4/2019.
 These numbers allowed us to extrapolate a decay model for TCE based on the PCE data (an approximate second-order derivative). The image shown below shows an increase in TCE before falling off to a straight-line first-order decay.
 The curve shown above indicates that TCE levels increase before they decrease.</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive IAQ Report</title>
+      <link>https://dservgun.github.io/posts/comprehensive-data-tables/</link>
+      <pubDate>Sun, 10 May 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/comprehensive-data-tables/</guid>
+      <description>Comprehensive IAQ Report We post a summary of the comprehensive report for the site between 2018 and 2020.
+Report for 2020 </description>
     </item>
     
     <item>
@@ -33,95 +132,6 @@ The curve shown above indicates that TCE levels increase before they decrease.</
   3/23/2020 - 14, 800, 000 CFU/ml
      3/25/2020 - 15, 300, 000 CFU/ml
      The sustained population count indicates that increase in levels of Chlorine due to bio-remediation of PCE and TCE are not impacting the bacterial population in VaporRemed.</description>
-    </item>
-    
-    <item>
-      <title>Comprehensive IAQ Report</title>
-      <link>https://dservgun.github.io/posts/comprehensive-data-tables/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/comprehensive-data-tables/</guid>
-      <description>Comprehensive IAQ Report We post a summary of the comprehensive report for the site between 2018 and 2020.
-Report for 2020 </description>
-    </item>
-    
-    <item>
-      <title>Enhanced Aerobic bio-remediation of Chlorinated Solvents at a strip mall in York, PA</title>
-      <link>https://dservgun.github.io/posts/summary/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/summary/</guid>
-      <description>Enhanced Aerobic Bio-remediation Report Introduction In this report, we present data collected on aerobicbio-remediation of soil contaminated with Perchloroethene (PCE), Trichloroethene (TCE), cis-1,2-Dichloroethene (cis12DCE) and Vinyl Chloride (VC) using VaporRemed.
-Enhanced Aerobic Bio-remediation of Chlorintaed Hydrocarbons The reference, In Situ Bioremediaton : When Does It Work?, lists at least three criteria for demonstrating that in situ bio-remediation is effective for a given project:
- Documented loss of contaminants from the site due to bio-remediation, Laboratory assays showing that the micro-organisms in site samples have the potential to transform contaminants under expected site condition, and One or more pieces of evidence showing that the bio-remediation potential is actually realized in the field.</description>
-    </item>
-    
-    <item>
-      <title>Location details</title>
-      <link>https://dservgun.github.io/posts/locationdetails/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/locationdetails/</guid>
-      <description>Location details. Here are some images to help gain a perspective about the project.
-Mall&amp;rsquo;s front Geo probe Addition of AgroRemed </description>
-    </item>
-    
-    <item>
-      <title>Mission Statement</title>
-      <link>https://dservgun.github.io/posts/missionstatement/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/missionstatement/</guid>
-      <description>Mission statement Our mission is to help cleanup the mess created by fossil-fuels and dry-cleaning solvents such as Trichloroethylene (TCE), Perchloroethylene (PCE) and oil. Our mission is to cleanup of sites contaminated with dry cleaning chemicals such as PCE/TCE and also fuel oil releases in the environment effectively through aerobic bioremediation. Current cleanup methods are quite cumbersome and very expensive as they involve invasive process of excavation and disposal. Our goal is to reduce the time of cleanup and reduce the cost.</description>
-    </item>
-    
-    <item>
-      <title>PCE levels in one of the hotspots - May 2020</title>
-      <link>https://dservgun.github.io/posts/indoorairlevels-may2020/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/indoorairlevels-may2020/</guid>
-      <description>Update on the levels of PCE/TCE in Indoor Air (IA-001), SG-101 and SG-106 The current post presents the latest data recorded in indoor air in one of the hotspots, namely IA-001 in May 2020.
- IA-001  SG-101  SG-106   Note The increase in levels of 1,2-cisDCE and VinylChloride (VC) are indicative or bio-remediation of solvents accomplished by VaporRemed.
-TCE levels at IA-001  IA-001  SG-106  SG-101 Even though we see a slight uptick, the numbers are still within the site-specific limits.</description>
-    </item>
-    
-    <item>
-      <title>Plots of various locations</title>
-      <link>https://dservgun.github.io/posts/locationplots/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/locationplots/</guid>
-      <description>Plots of contamination levels at various locations   Vapor Attenuation Curve between 2018 - 2020   IA-001 between 2018 - 2020   IA-002 between 2018 - 2020   IA-004 between 2018 - 2020   IA-007 between 2018 - 2020   IA-008 between 2018 - 2020   IA-009 between 2018 - 2020   IA-010 between 2018 - 2020   IA-011 between 2018 - 2019   SB-121 between Jun 2017 - Sept 2017   SG-106 between June 2019 - May 2020   SG-101 between June 2019 - May 2020   VP-003 between 2018 - 2020   </description>
-    </item>
-    
-    <item>
-      <title>Vapor Attenuation</title>
-      <link>https://dservgun.github.io/posts/vaporattenuation/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/vaporattenuation/</guid>
-      <description>Vapor Attenuation of paired PCE values between Indoor Air (IA-001) and Sub-Slab area (VP-003) The plot below shows the VaporAttenuation factor based on the formula below for PCE values.
-Notes We present vapor attenuation as a function of time to understand the impact of VaporRemed during the remediation process. Vapor attenuation (Johnson and Ettinger 1991) refers to the reduction in concentration of vapor-forming chemicals that occurs during vapor migration in the subsurface, coupled with the dilution that can occur when the vapors enter a building and mix with indoor.</description>
-    </item>
-    
-    <item>
-      <title>VaporRemed Case Studies</title>
-      <link>https://dservgun.github.io/posts/someoldpostsonvaporremed/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/someoldpostsonvaporremed/</guid>
-      <description>VaporRemed Case Studies A site in Virginia   A site in Virginia, one of our initial projects - circa 2006.   An image showing the earmarked area     An image showing the trenches below the AST     A detailed report of the project
-  Some quotes and figures from the report   Groundwater results at MW-1 between 2005 - 2006   The application of AgroRemed appears to have reduced the levels of dissolved phase contamination in the groundwater and increased dispersion of the free product, resulting in an increase in the amount of free product in MW-4.</description>
-    </item>
-    
-    <item>
-      <title>VaporRemed Facts</title>
-      <link>https://dservgun.github.io/posts/vaporremedfactfigures/</link>
-      <pubDate>Sat, 09 May 2020 22:52:38 -0400</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/vaporremedfactfigures/</guid>
-      <description>Total amount of VaporRemed added to Soil - 41 gallons. Total amount of VaporRemed added to Sub-slab area - 142 + 91 = 233 gallons. Total amount of VaporRemed added to SG-101 - 35 gallons Total amount of VaporRemed added to SG-106 - 100 gallons. Grand total amount of VaporRemed added to the site is - 476 gallons. Comparison with other projects Although to do an apples-to-apples comparison is not accurate, the following paragraph from the Fourth Five-Year Review Report for Middlefield-Ellis-Whisman (MEW) Superfund Study Area (Pg.</description>
     </item>
     
   </channel>
