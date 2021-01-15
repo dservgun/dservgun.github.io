@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dinkar Ganti, 2020, All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 18:52:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 22:52:38 -0400</lastBuildDate>
     
 	<atom:link href="https://dservgun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Producing ULSFO (Ultra low sulfur fuel oil)</title>
+      <link>https://dservgun.github.io/posts/producingulfo/</link>
+      <pubDate>Wed, 16 Dec 2020 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/producingulfo/</guid>
+      <description>Pitch deck for the process of generating fuel oil from asphalt shingles. I am trying something new, I am going to attach a presentation that I want to take to angel investors. I would love to get some feedback to help me improve the deck. The deck is attached here.</description>
+    </item>
     
     <item>
       <title>Collection of current and past projects.</title>
@@ -141,15 +150,6 @@ Report for 2020 </description>
   3/23/2020 - 14, 800, 000 CFU/ml
      3/25/2020 - 15, 300, 000 CFU/ml
      The sustained population count indicates that increase in levels of Chlorine due to bio-remediation of PCE and TCE are not impacting the bacterial population in VaporRemed.</description>
-    </item>
-    
-    <item>
-      <title>Producing ULSFO (Ultra low sulfur fuel oil)</title>
-      <link>https://dservgun.github.io/posts/producingulfo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/producingulfo/</guid>
-      <description>Pitch deck for the process of generating fuel oil from asphalt shingles. I am trying something new, I am going to attach a presentation that I want to take to angel investors. I would love to get some feedback to help me improve the deck. The deck is attached here.</description>
     </item>
     
   </channel>
