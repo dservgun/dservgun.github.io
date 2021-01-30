@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dinkar Ganti, 2020, All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 22:52:38 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2021 22:52:38 -0400</lastBuildDate>
     
 	<atom:link href="https://dservgun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estimates for production of ULSFO from waste oil</title>
+      <link>https://dservgun.github.io/posts/productionestimatesulsfo/</link>
+      <pubDate>Fri, 29 Jan 2021 22:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/productionestimatesulsfo/</guid>
+      <description>Production estimates from Asphalt We were asked to put out some estimates on the amount of ULSFO from waste asphalt. This link contains a table that presents those estimates.
+ TLDR; 100,000.00 kilograms of Asphalt are estimated to produce 90,000 liters
+ Please feel free to ping me with any questions or comments - We would love to hear from you. </description>
+    </item>
     
     <item>
       <title>Producing ULSFO (Ultra low sulfur fuel oil)</title>
