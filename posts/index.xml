@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dinkar Ganti, 2020, All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Jan 2021 22:52:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 18:52:38 -0400</lastBuildDate>
     
 	<atom:link href="https://dservgun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biodegradation of Polystyrene</title>
+      <link>https://dservgun.github.io/posts/polystyrenebiodegradation/</link>
+      <pubDate>Wed, 15 Sep 2021 18:52:38 -0400</pubDate>
+      
+      <guid>https://dservgun.github.io/posts/polystyrenebiodegradation/</guid>
+      <description>A short paper on biodegradation of plastics using our products. Paper.</description>
+    </item>
     
     <item>
       <title>Estimates for production of ULSFO from waste asphalt</title>
@@ -161,15 +170,6 @@ Report for 2020 </description>
   3/23/2020 - 14, 800, 000 CFU/ml
      3/25/2020 - 15, 300, 000 CFU/ml
      The sustained population count indicates that increase in levels of Chlorine due to bio-remediation of PCE and TCE are not impacting the bacterial population in VaporRemed.</description>
-    </item>
-    
-    <item>
-      <title>Biodegradation of Polystyrene</title>
-      <link>https://dservgun.github.io/posts/polystyrenebiodegradation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dservgun.github.io/posts/polystyrenebiodegradation/</guid>
-      <description>A short paper on biodegradation of plastics using our products. Paper.</description>
     </item>
     
   </channel>
