@@ -37,7 +37,7 @@ What caught my eye in the book was a chapter on Static-single assignment or SSA 
 What caught my eye in the book was a chapter on Static-single assignment or SSA form. SSA is a property of an intermediate representation, that requires that each variable be assigned only once, and be defined before it is used.">
 <meta itemprop="datePublished" content="2021-12-07T10:06:02-05:00" />
 <meta itemprop="dateModified" content="2021-12-07T10:06:02-05:00" />
-<meta itemprop="wordCount" content="590">
+<meta itemprop="wordCount" content="635">
 
 
 
@@ -158,7 +158,7 @@ What caught my eye in the book was a chapter on Static-single assignment or SSA 
 <span style="color:#f92672">}</span>
 </code></pre></div><p>In imperative programs, or programs with mutable variables, the size of the lock is usually either too large or too small; too large a lock can slow an application on a multi-core architecture whereas a smaller lock can create those nasty race conditions that magically disappear when one tries to <code>printf</code> them. <a href="https://hackage.haskell.org/package/stm">Haskell&rsquo;s STM</a> implementation helps address some of the issues in implementing concurrent programs.</p>
 <h3 id="can-we-hope-for-a-unified-development-environment-that-brings-haskell-coq-together-wrapped-inside-a-ui">Can we hope for a unified development environment that brings Haskell, COQ together wrapped inside a UI?</h3>
-<p>For me, an ideal development environment would be a mix of COQ, Haskell and <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> so that I can develop programs that are robust while still enjoying the process, though, I am not sure if that will happen anytime soon. Each programming language has its own build system, Haskell with <a href="https://docs.haskellstack.org/en/stable/README/">stack</a>, <a href="https://shakebuild.com/">shake</a> and <a href="https://www.haskell.org/cabal/">cabal</a>; OCAML with <a href="https://github.com/ocaml/dune">dune</a> makes it hard to switch programming languages.</p>
+<p>For me, an ideal development environment would be a mix of COQ, Haskell and <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> so that I can develop programs that are robust while still enjoying the process, though, I am not sure if that will happen anytime soon. Each programming language has its own build system, Haskell with <a href="https://docs.haskellstack.org/en/stable/README/">stack</a>, <a href="https://shakebuild.com/">shake</a> and <a href="https://www.haskell.org/cabal/">cabal</a>; OCAML with <a href="https://github.com/ocaml/dune">dune</a> makes it hard to switch programming languages. Speaking of differences in terminologies, the term <a href="https://catonmat.net/on-functors">functor</a> has been used to mean entirely different things be it in C++, OCAML, Haskell and Prolog. Of course, in my opinion, Haskell&rsquo;s use of functors is closer to term from category theory, therefore a bit more correct.</p>
 <ul class="pa0">
   
 </ul>
